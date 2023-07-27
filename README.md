@@ -1,1 +1,2 @@
 # SinglyLinkedLlist
+Односвязный список
